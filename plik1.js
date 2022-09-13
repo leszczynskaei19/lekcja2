@@ -5,4 +5,6 @@ function fibo(f){
     return 1;
   return fibo(n-1)+fibo(n-2);
 }
-document.write(fibo(4));
+i = 0;
+while (i < 10);
+doucument.write(fibo)
